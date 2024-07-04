@@ -10,7 +10,7 @@ This mini-course is designed to help you demonstrate foundational Python skills 
 - Using Python libraries such as Pandas, Beautiful Soup, and Plotly within Jupyter Notebooks
 
 ## :chart_with_upwards_trend: Final Project
-[Extracting Stock Data Using the yfinance library](https://github.com/Parisaroozgarian/PythonProject-FinalAssignment/blob/main/Final%20Assignment-ParisaRoozgarian.ipynb)
+[Extracting and Visualizing Stock Data](https://github.com/Parisaroozgarian/PythonProject-FinalAssignment/blob/main/Final%20Assignment-ParisaRoozgarian.ipynb)
 
 - Define a Function that Makes a Graph
 - Question 1: Use yfinance to Extract Stock Data
