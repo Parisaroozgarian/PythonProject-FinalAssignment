@@ -10,3 +10,4 @@ This mini-course is designed to help you demonstrate foundational Python skills 
 - Using Python libraries such as Pandas, Beautiful Soup, and Plotly within Jupyter Notebooks
 
 ## Final Project
+Extracting and Visualizing Stock Data
