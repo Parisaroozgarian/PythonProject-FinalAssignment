@@ -11,8 +11,7 @@ This mini-course is designed to help you demonstrate foundational Python skills 
 
 ## :chart_with_upwards_trend: Final Project
 Extracting and Visualizing Stock Data
-
--- Define a Function that Makes a Graph
+- Define a Function that Makes a Graph
 - Question 1: Use yfinance to Extract Stock Data
 - Question 2: Use Webscraping to Extract Tesla Revenue Data
 - Question 3: Use yfinance to Extract Stock Data
