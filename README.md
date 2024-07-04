@@ -9,5 +9,13 @@ This mini-course is designed to help you demonstrate foundational Python skills 
 - Visualizing data and creating dashboards
 - Using Python libraries such as Pandas, Beautiful Soup, and Plotly within Jupyter Notebooks
 
-## Final Project
+## :chart_with_upwards_trend: Final Project
 Extracting and Visualizing Stock Data
+
+-- Define a Function that Makes a Graph
+- Question 1: Use yfinance to Extract Stock Data
+- Question 2: Use Webscraping to Extract Tesla Revenue Data
+- Question 3: Use yfinance to Extract Stock Data
+- Question 4: Use Webscraping to Extract GME Revenue Data
+- Question 5: Plot Tesla Stock Graph
+- Question 6: Plot GameStop Stock Graph
